@@ -76,7 +76,16 @@ h1, h2, h3, p{
     font-weight: 900;
 }
 
-/* .button {
+.second-header{
+    display: flex;
+    padding-left: 170px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.button {
     border: none; */
     color: white;
     font-family: candara;
@@ -99,7 +108,7 @@ h1, h2, h3, p{
   .button1:hover {
     background-color: white;
     color: black;
-  } */
+  }
 
 
 th{
